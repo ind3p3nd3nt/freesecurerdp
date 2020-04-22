@@ -12,7 +12,7 @@ On Windows (Any version) to connect:
 # Press Windows Key + R
 # Type: mstsc
 # Enter sickvpn.iownyour.biz
-# Username is: INDEPENDENTCOD\ADMIN or .\ADMIN
+# Username is: .\ADMIN
 # Password is: 1qazZAQ!!@#$
 
 To make your own server please see throught this repo https://github.com/independentcod/WinQemu
